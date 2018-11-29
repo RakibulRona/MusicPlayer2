@@ -1,0 +1,4 @@
+#Tue May 08 13:59:39 BDT 2018
+base.0=C\:\\Users\\Triangle Solutions\\AndroidStudioProjects\\MusicPlayer2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
